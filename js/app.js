@@ -45,7 +45,7 @@ function app() {
         //console.log(this)
     		return (
     			<div className="pageContainer">	
-	    			<img className="tardis" src="../dist/images/tardis.png"/>
+	    			<img className="tardis" src="./images/tardis.png"/>
 	    			<Console/>
 	    		</div>	
     		)
